@@ -1,0 +1,52 @@
+[
+    {
+    "name": "Enterprice Resource Planning",
+    "desc": "Full-Stack Development ERP concept in manufacturing field with easyu framework",
+    "image": "erp",
+    "category": "mern",
+    "links": {
+      "view": "http://erp.banshu-ind.com/mrp",
+      "code": ""
+    }
+  },
+  {
+    "name": "Ikalum-UMJ",
+    "desc": "Muhammadiyah University Jakarta Alumni Association website with bootstrap & codeigniter 3, include admin and landing page",
+    "image": "ikalum",
+    "category": "mern",
+    "links": {
+      "view": "https://ikalum-umj.com",
+      "code": ""
+    }
+  },
+  {
+    "name": "Minisoccer",
+    "desc": "Website futsal with native php5 include booking page, schedule page, etc ",
+    "image": "minisoccer",
+    "category": "mern",
+    "links": {
+      "view": "https://minisoccerproject21.com",
+      "code": ""
+    }
+  },
+  {
+    "name": "Point Of Sales",
+    "desc": "Full-Stack project with easyui framework.",
+    "image": "pos",
+    "category": "mern",
+    "links": {
+      "view": "https://minisoccerproject21.com/pos",
+      "code": ""
+    }
+  },
+  {
+    "name": "Parking",
+    "desc": "Full-Stack project with easyui framework.",
+    "image": "parkir",
+    "category": "mern",
+    "links": {
+      "view": "https://minisoccerproject21.com/pos",
+      "code": ""
+    }
+  }
+]
