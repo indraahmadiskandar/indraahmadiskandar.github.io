@@ -12,7 +12,7 @@
   {
     "name": "Ikalum-UMJ",
     "desc": "Muhammadiyah University Jakarta Alumni Association website with bootstrap & codeigniter 3, include admin and landing page",
-    "image": "ikalum",
+    "image": "erp",
     "category": "mern",
     "links": {
       "view": "https://ikalum-umj.com",
@@ -22,7 +22,7 @@
   {
     "name": "Minisoccer",
     "desc": "Website futsal with native php5 include booking page, schedule page, etc ",
-    "image": "minisoccer",
+    "image": "erp",
     "category": "mern",
     "links": {
       "view": "https://minisoccerproject21.com",
