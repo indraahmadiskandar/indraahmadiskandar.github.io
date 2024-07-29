@@ -34,5 +34,9 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Codeigniter 3",
+        "icon": "https://e7.pngegg.com/pngimages/385/811/png-clipart-codeigniter-laravel-jquery-php-logo-codeigniter-web-design-text-thumbnail.png"
     }
 ]
