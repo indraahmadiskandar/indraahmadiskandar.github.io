@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "Enterprice Resource Planning",
     "desc": "Full-Stack Development ERP concept in manufacturing field with easyu framework",
     "image": "erp",
@@ -46,6 +46,26 @@
     "category": "mern",
     "links": {
       "view": "https://minisoccerproject21.com/parkir",
+      "code": ""
+    }
+  },
+  {
+    "name": "Customer Relationship Management",
+    "desc": "Full-Stack project with easyui framework and Codeigniter 3.",
+    "image": "crm",
+    "category": "mern",
+    "links": {
+      "view": "http://43.254.126.203/crm-bei",
+      "code": ""
+    }
+  },
+  {
+    "name": "EXIM",
+    "desc": "Full-Stack project with easyui framework and Codeigniter 3. Integration to Ceisa 4.0",
+    "image": "exim",
+    "category": "mern",
+    "links": {
+      "view": "https://exim.asahibestbaseid.com",
       "code": ""
     }
   }
