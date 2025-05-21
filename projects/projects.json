@@ -31,7 +31,7 @@
   },
   {
     "name": "Point Of Sales",
-    "desc": "Full-Stack project with easyui framework and native php5.",
+    "desc": "Full-Stack project with easyui framework and native php5.<br>Username : 269 <br>Password : demo",
     "image": "pos",
     "category": "mern",
     "links": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Parking",
-    "desc": "Full-Stack project with easyui framework and native php5.",
+    "desc": "Full-Stack project with easyui framework and native php5.<br>Username : demo <br>Password : demo",
     "image": "parkirr",
     "category": "mern",
     "links": {
